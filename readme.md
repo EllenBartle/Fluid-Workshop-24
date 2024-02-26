@@ -4,7 +4,7 @@
 
 -Ellen Bartle
 -Author B
--Author C
+-Author C (check if they want to work)
 
 ##Description
 
