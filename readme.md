@@ -1,16 +1,16 @@
 # Project Title
 
-##Authors
+## Authors
 
 -Ellen Bartle
 -Author B
 -Author C (check if they want to work)
 
-##Description
+## Description
 
 This is a project to learn about git. 
 
-##Experiment
+## Experiment
 
 Out experiment is performed as follows:
 
