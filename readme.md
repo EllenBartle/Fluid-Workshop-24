@@ -2,11 +2,9 @@
 
 ## Authors
 
--Ellen Bartle
-
--Author B
-
--Author C (check if they want to work)
+- Ellen Bartle
+- Author B
+- Author C (check if they want to work)
 
 ## Description
 
@@ -17,9 +15,9 @@ This is a project to learn about git.
 Out experiment is performed as follows:
 
 1. Create new branch
-   
+
 2. Change to new branch
-   
+
 3. Add instructions
 
 ## VSC test
@@ -27,3 +25,11 @@ Out experiment is performed as follows:
 Add a change via VScode. 
 
 Add a second change via VScode
+
+## Pull Request Test 
+
+- Create new branch in local machine
+- Do some changes
+- Push changes (new brnch) to github
+- Do PR
+- Merge/Delete
