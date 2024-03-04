@@ -1,4 +1,4 @@
-import function.calc as fc
+import function.calc.py as fc
 import pytest
 #import numpy as np
 import cmath
