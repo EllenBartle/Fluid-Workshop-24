@@ -1,4 +1,4 @@
-import numpy as np
+#import numpy as np
 
 #def square(x):
     #return np.pow(x,2)
