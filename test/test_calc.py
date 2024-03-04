@@ -1,4 +1,4 @@
-import function.calc  as fc
+import Functions.calc  as fc
 
 def test_negatives():
     assert fc.adivb(-10,-5) > 0, "Two negatives should return a positive."
