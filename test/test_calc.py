@@ -1,4 +1,4 @@
-import functions.calc as fc
+import function.calc as fc
 import pytest
 
 
