@@ -2,9 +2,17 @@
 
 ## Authors
 
+<<<<<<< HEAD
 - Ellen Bartle
 - Author B
 - Author C (check if they want to work)
+=======
+-Ellen Bartle
+
+-Author B
+
+-Author C (check if they want to work)
+>>>>>>> 63b7655f36fe8663db9074c5e7e09dd901c8fe68
 
 ## Description
 
@@ -15,9 +23,15 @@ This is a project to learn about git.
 Out experiment is performed as follows:
 
 1. Create new branch
+<<<<<<< HEAD
 
 2. Change to new branch
 
+=======
+   
+2. Change to new branch
+   
+>>>>>>> 63b7655f36fe8663db9074c5e7e09dd901c8fe68
 3. Add instructions
 
 ## VSC test
@@ -25,6 +39,7 @@ Out experiment is performed as follows:
 Add a change via VScode. 
 
 Add a second change via VScode
+<<<<<<< HEAD
 
 ## Pull Request Test 
 
@@ -33,3 +48,9 @@ Add a second change via VScode
 - Push changes (new brnch) to github
 - Do PR
 - Merge/Delete
+=======
+>>>>>>> 63b7655f36fe8663db9074c5e7e09dd901c8fe68
+
+## Requirements
+
+- Works on windows/linux
