@@ -7,7 +7,9 @@ def test_negatives():
 
 
 def test_posneg():
-    assert (fc.adivb(-9, 3) < 0), "One positive and one negative should return a negative."
+    assert (
+        fc.adivb(-9, 3) < 0
+    ), "One positive and one negative should return a negative."
 
 
 def test_positives():
@@ -15,7 +17,9 @@ def test_positives():
 
 
 def test_type():
-    assert isinstance(fc.adivb(5, 10), float ), "Odd divided by Evens should return a float."
+    assert isinstance(
+        fc.adivb(5, 10), float
+    ), "Odd divided by Evens should return a float."
 
 
 def test_float():
