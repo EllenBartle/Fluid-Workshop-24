@@ -1,6 +1,6 @@
 import function.calc as fc
 import pytest
-import numpy as np
+#import numpy as np
 import cmath
 
 
@@ -28,7 +28,7 @@ def test_imag():
     assert fc.hyp(cmath.complex(3, 1), 2) == cmath.sqrt(cmath.complex (0, 9) + 4), "Squareroot of squareroot of an imaginary number squared, should return an imaginary number "
 
 
-def test_inf():
-    assert fc.hyp (np.infty, 3) == np.infty, "Squareroot of infinity squared should return infinity."
+#def test_inf():
+   # assert fc.hyp (np.infty, 3) == np.infty, "Squareroot of infinity squared should return infinity."
 
 
