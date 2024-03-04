@@ -25,7 +25,7 @@ def test_zero():
 
 
 def test_imag():
-    assert fc.hyp(cmath.complex(3, 1), 2) == cmath.sqrt(cmath.complex (0, 9) + 4), "Squareroot of squareroot of an imaginary number squred, should return an imaginary number "
+    assert fc.hyp(cmath.complex(3, 1), 2) == cmath.sqrt(cmath.complex (0, 9) + 4), "Squareroot of squareroot of an imaginary number squared, should return an imaginary number "
 
 
 def test_inf():
